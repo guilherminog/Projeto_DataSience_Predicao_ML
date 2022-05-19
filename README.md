@@ -1,15 +1,16 @@
-## Projeto em desenvolvimento com a Ambev em conjunto com a DNC.
+# Projeto_descontinuado..
 
-### Projeto_descontinuado..
+## Projeto em desenvolvimento com a Ambev em conjunto com a DNC.
 
 
 Projeto prevê a construção de um modelo de machine learnin com intuito de melhorar a eficiência 
 energética na área de Utilidade da ambev, setor de resfriamentonde bebibadas. 
 
-tapas cumpridas:
+Etapas cumpridas:
 
   Entendimento do negócio, já realizado.
-  Entendoimento dos dados, já realizado.
+  Entendimento dos dados, já realizado.
+  Limpeza dos dados, Conluído.
 
 Etapas a serem cumpridas e negociadas:
   
